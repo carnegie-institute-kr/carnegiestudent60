@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Hajun&#x27;s Creative Portfolio",
+    "description": "",
+    "home_page_url": "https://carnegie-institute-kr.github.io/carnegiestudent60",
+    "feed_url": "https://carnegie-institute-kr.github.io/carnegiestudent60/feed.json",
+    "user_comment": "",
+    "icon": "https://carnegie-institute-kr.github.io/carnegiestudent60/media/website/logo-img.png",
+    "author": {
+        "name": "Carnegie Student"
+    },
+    "items": [
+    ]
+}
